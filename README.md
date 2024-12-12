@@ -1,2 +1,3 @@
 # weatherxm
-Arb weatherxm script thingies
+
+Scripts for identifying station information and querying history
